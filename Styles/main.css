@@ -80,3 +80,7 @@ footer {
 ul {
     list-style-type: none;
 }
+
+.bannerImage {
+    width: 100%
+}
