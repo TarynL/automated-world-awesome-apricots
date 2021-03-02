@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { Cities } from "./City.js"
 import { getCities } from "./CityData.js" 
 
@@ -13,3 +14,7 @@ export const CitiesList = () => {
 
     DOMLocation.innerHTML = cityRep;
 };
+=======
+
+
+>>>>>>> 22914e18b31e83422a2f0c1909cdbd83f5d45c5a
