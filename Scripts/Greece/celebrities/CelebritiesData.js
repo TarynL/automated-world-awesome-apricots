@@ -1,15 +1,17 @@
-const  celebObj = [
+const  celebritiesData= [
     {
         celebName: "Tom Hanks",
-    }
+    },
                     
     {
         celebName: "Catherine Deneuve",
     },
 
-{
-    celebName: "Julia Roberts",
-}
-
+   { celebName: "Julia Roberts",
+   },
 
 ]
+
+export const getCeleb = () => {
+    return celebritiesData
+}
