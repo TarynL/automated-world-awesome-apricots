@@ -7,3 +7,7 @@ celebList();
 import { cityList } from "./Cities/CityList.js";
 
 cityList();
+
+import { landmarkList } from "./Landmarks/LandmarkList.js";
+
+landmarkList();

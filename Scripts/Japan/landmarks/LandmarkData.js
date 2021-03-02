@@ -1,17 +1,22 @@
-let landmark = [
+let landmarkCollection = [
     {
-        landmarkyOne: "Mount Fuji"
+        landmarkName: "Mount Fuji"
     },
     { 
-        landmarkTwo: "Himeji Castle" 
+        landmarkName: "Himeji Castle" 
     },
     { 
-        landmarkThree: "Naoshima" 
+        landmarkName: "Naoshima" 
     },
     { 
-        landmarkFour: "Tokyo Tower" 
+        landmarkName: "Tokyo Tower" 
     },
     { 
-        landmarkFive: "Hayao Miyazaki" 
+        landmarkName: "Hayao Miyazaki" 
     }
 ]
+
+
+export const getLandmarks = () => {
+	return landmarkCollection;
+}
