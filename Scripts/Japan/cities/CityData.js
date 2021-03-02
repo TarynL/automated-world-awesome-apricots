@@ -1,17 +1,17 @@
 let cities = [
     {
-        cityOne: "Mari Kondo"
+        cityName: "Tokyo"
     },
     {
-        cityTwo: "Yoko Ono"
+        cityName: "Osaka"
     },
     {
-        cityThree: "Yayoi Kusama"
+        cityName: "Hakone"
     },
     { 
-        cityFour: "Katsushika Hokusai" 
+        cityName: "Kobe" 
     },
     { 
-        cityFive: "Hayao Miyazaki" 
+        cityName: "Yokohama" 
     }
 ]

@@ -1,17 +1,23 @@
-let cities = [
+
+let celebCollection = [
     {
-        cityOne: "Tokyo"
+        celebName: "Mari Kondo"
     },
     {
-        cityTwo: "Osaka"
+        celebName: "Yoko Ono"
     },
     {
-        cityThree: "Hakone"
+        celebName: "Yayoi Kusama"
     },
     { 
-        cityFour: "Kobe" 
+        celebName: "Katsushika Hokusai" 
     },
     { 
-        cityFive: "Yokohama" 
+        celebName: "Hayao Miyazaki" 
     }
 ]
+
+
+export const getCelebs = () => {
+	return celebCollection;
+}
