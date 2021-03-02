@@ -1,4 +1,4 @@
-let cities = [
+let citiesCollection = [
     {
         cityName: "Tokyo"
     },
@@ -15,3 +15,7 @@ let cities = [
         cityName: "Yokohama" 
     }
 ]
+
+export const getCities = () => {
+	return citiesCollection;
+}
