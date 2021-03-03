@@ -17,19 +17,28 @@ nav a:hover {
     color: #FFCFB6;
 }
 
-nav ul {
+.navbar ul {
+    display: flex;
+    justify-content: flex-end;
 	list-style-type: none;
 	margin: 0;
 	padding: 1em;
 	overflow: hidden;
-	background-color: #1B2E3F;
+	background-color: #1B2E3F;   
+    
   }
 
 .navbar li {
 	display: inline;
 	margin: 0 1em;
-    color: white;
   }
+
+.navbar a {
+    display: inline-flex;
+    color: white;
+    text-decoration: none;
+    margin: 0 40px;
+}
 
 .icons {
     display: flex;
