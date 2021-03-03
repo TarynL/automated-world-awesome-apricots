@@ -13,6 +13,16 @@ body {
     background-color: #E2EBEE;
 }
 
+.navbar {
+    display: inline;
+    flex-wrap: wrap;
+}
+
+.navbar img {
+    width: 60px;
+    float:left;
+}
+
 nav a:hover {
     color: #FFCFB6;
 }
@@ -23,9 +33,8 @@ nav a:hover {
 	list-style-type: none;
 	margin: 0;
 	padding: 1em;
-	overflow: hidden;
-	background-color: #1B2E3F;   
-    
+	overflow: hidden;   
+    background-color: #1B2E3F;
   }
 
 .navbar li {
