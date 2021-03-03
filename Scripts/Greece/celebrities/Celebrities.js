@@ -3,7 +3,8 @@ export const Celebrities = (celebObj) =>
 {
     return (
         `<article class="celeb-card">
-        <h3 class="celeb-name">${celebObj.celebName}</h3>
+        <div><img class="celeb-image" src="images/${celebObj.image}"/></div>
+       <h4 class="celeb-name">${celebObj.celebName}</h4>
         </article>`
 
     )
