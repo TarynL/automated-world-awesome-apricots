@@ -1,19 +1,17 @@
 let landmarkCollection = [
-    {
-        landmarkName: "Mount Fuji"
+  { 
+        landmarkName: "Himeji Castle" ,
+        image: "himejicastle.jpg",
     },
     { 
-        landmarkName: "Himeji Castle" 
+        landmarkName: "Naoshima" ,
+        image: "naoshima.jpg",
     },
     { 
-        landmarkName: "Naoshima" 
+        landmarkName: "Tokyo Tower" ,
+        image: "tokyotower.jpg",
     },
-    { 
-        landmarkName: "Tokyo Tower" 
-    },
-    { 
-        landmarkName: "Hayao Miyazaki" 
-    }
+ 
 ]
 
 

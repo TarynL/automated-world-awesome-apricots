@@ -1,5 +1,6 @@
 export const celeb = (celebObj) => {
     return (
-        `<li>${celebObj.celebName}</li>`
+`<div><img class="celeb-image" src="images/${celebObj.image}"/></div>
+        <li>${celebObj.celebName}</li>`
     )
 }

@@ -1,5 +1,6 @@
 export const city = (cityObj) => {
     return (
-        `<li>${cityObj.cityName}</li>`
+        `<div><img class="celeb-image" src="images/${cityObj.image}"/></div>
+        <li>${cityObj.cityName}</li>`
     )
 }

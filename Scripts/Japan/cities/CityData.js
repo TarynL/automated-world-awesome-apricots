@@ -1,19 +1,16 @@
 let citiesCollection = [
     {
-        cityName: "Tokyo"
+        cityName: "Tokyo",
+        image: "Tokyo..jpg",
     },
     {
-        cityName: "Osaka"
+        cityName: "Osaka",
+        image: "Osaka.jpg",
     },
     {
-        cityName: "Hakone"
+        cityName: "Hakone",
+        image: "Hakone.jpg",
     },
-    { 
-        cityName: "Kobe" 
-    },
-    { 
-        cityName: "Yokohama" 
-    }
 ]
 
 export const getCities = () => {

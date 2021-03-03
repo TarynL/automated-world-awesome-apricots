@@ -131,3 +131,18 @@ height: 350px;
 background-position: center;
 background-size:cover;
 }
+
+.city-image {
+    height: 140px;
+    width: 200px;
+}
+
+.landmark-image{
+    height: 140px;
+    width: 200px;
+}
+
+.celeb-image{
+    height: 140px;
+    width: 200px;
+}
