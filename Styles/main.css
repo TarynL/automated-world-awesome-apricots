@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 h1 {
     font-family: 'Lobster', cursive;
     text-align: center;
@@ -8,29 +10,43 @@ h1 {
 
 .bio {
     text-align: center;
+    font-family: "Roboto", serif;
 }
 
 body {
     background-color: #E2EBEE;
 }
 
+header {
+    clear: both
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    background-color: #1B2E3F;
+}
+
 nav a:hover {
     color: #FFCFB6;
 }
 
-nav ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 1em;
-	overflow: hidden;
-	background-color: #1B2E3F;
-  }
-
 .navbar li {
 	display: inline;
-	margin: 0 1em;
-    color: white;
+    margin: 0 3em; 
   }
+
+.navbar ul {
+    margin: 20px;
+}
+
+.navbar a {
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    font-family: "roboto", serif;
+}
 
 .icons {
     display: flex;
@@ -44,7 +60,7 @@ nav ul {
     height: 350px;
     width: 300px;
     object-fit: cover;
-    margin: 0px 10px;
+    margin: 0 10px;
 }
 
 .link {    
@@ -98,6 +114,10 @@ background-position: center;
 background-size:cover;
 }
 
+.bioContainer {
+    margin: 50px;
+    padding: 20px;
+}
 .japan-banner-image {
 background-image : url("../images/japan-banner.jpg");
 height: 350px;
