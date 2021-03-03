@@ -1,9 +1,9 @@
 
-export const Landmarks = (landmarkObj) => 
+export const Landmark = (landmarkObj) => 
 {
     return (
-        `<article class="celeb-card">
-        <h3 class="celeb-name">${landmarkObj.landmarkName}</h3>
+        `<article class="landmark-card">
+        <h3 class="landmark-name">${landmarkObj.landmarkName}</h3>
         </article>`
 
     )

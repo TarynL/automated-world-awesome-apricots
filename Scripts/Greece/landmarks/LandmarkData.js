@@ -1,18 +1,18 @@
 const  landmarkData= [
     {
-        landmarkName: "Tom Hanks",
+        landmarkName: "Acropolis of Athens",
     },
                     
     {
-        landmarkName: "Catherine Deneuve",
+        landmarkName: "Temple of Olympian Zeus",
     },
 
    {
-        landmarkName: "Julia Roberts",
+        landmarkName: "Parthenon",
    },
 
 ]
 
-export const  = () => {
-    return celebritiesData
+export const getLandmark = () => {
+    return landmarkData
 }

@@ -3,6 +3,7 @@
 h1 {
     font-family: 'Lobster', cursive;
     text-align: center;
+    margin-top: 70px;
 }
 
 .bio {
@@ -71,12 +72,21 @@ footer {
 
 .cities, .landmarks, .people {
 	width: 30%;
-	padding-bottom: 15px;
+	padding-bottom: 20px;
 	list-style-type: none;
     background-color: #BADAE4;
     text-align: center;
+    margin-top: 80px;
 }
 
 ul {
     list-style-type: none;
+}
+
+.banner-image {
+
+background-image : url("../images/greece-pages.jpg");
+height: 350px;
+background-position: center;
+background-size:cover;
 }
