@@ -1,17 +1,17 @@
 const landmarkCollection = [
     {
         landmarkName: "Chocolate Hills",
-        image: "tomhanks.jpg",
+        image: "Chocolate Hills.jpeg",
     },
 
      {
         landmarkName: "Batad, Banaue Rice Terraces",
-        image: "tomhanks.jpg",
+        image: "Batad.jpeg",
     },
 
      {
         landmarkName: "Puerto Princesa Subterranean River",
-        image: "tomhanks.jpg",
+        image: "PuertoPrincesa.jpeg",
     }
 ]
 

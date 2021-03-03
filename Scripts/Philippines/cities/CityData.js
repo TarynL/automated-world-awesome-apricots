@@ -1,17 +1,17 @@
 const cityCollection = [
     {
         cityName: "Quezon City",
-        image: "tomhanks.jpg",
+        image: "Quezon City.jpeg",
     },
 
      {
         cityName: "Manila",
-        image: "tomhanks.jpg",
+        image: "Manila.jpeg",
     },
 
      {
         cityName: "Davao City",
-        image: "tomhanks.jpg",
+        image: "Davao City.jpeg",
     }
 ]
 

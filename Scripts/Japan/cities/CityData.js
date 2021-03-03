@@ -1,15 +1,15 @@
 let citiesCollection = [
     {
         cityName: "Tokyo",
-        image: "tomhanks.jpg",
+        image: "Tokyo..jpg",
     },
     {
         cityName: "Osaka",
-        image: "tomhanks.jpg",
+        image: "Osaka.jpg",
     },
     {
         cityName: "Hakone",
-        image: "tomhanks.jpg",
+        image: "Hakone.jpg",
     },
 ]
 

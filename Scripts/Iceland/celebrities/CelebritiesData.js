@@ -1,17 +1,17 @@
 const celebritiesCollection = [
     {
         name: "Stefán Karl Stefánsson",
-        image: "tomhanks.jpg"
+        image: "stefankarl.jpg"
     },
 
     {
         name: "Björk Guðmundsdóttir",
-        image: "tomhanks.jpg"
+        image: "Bjork.jpg"
     },
 
     {
         name: "Víkingur Ólafsson",
-        image: "tomhanks.jpg"
+        image: "Vikingur.jpg"
     }
 ];
 

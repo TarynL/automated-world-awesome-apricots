@@ -1,17 +1,17 @@
 const landmarksCollection = [
     {
         name: "Solfarid Sculpture",
-        image: "parthenon.jpg",
+        image: "solfarid.jpg",
     },
 
     {
         name: "Hallgrimskirkja Church",
-        image: "parthenon.jpg",
+        image: "hallgrimskirkja.jpg",
     },
 
     {
         name: "Gullfoss",
-        image: "parthenon.jpg",
+        image: "gullfoss.jpg",
     }
 ];
 

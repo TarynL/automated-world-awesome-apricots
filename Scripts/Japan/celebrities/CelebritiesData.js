@@ -2,18 +2,18 @@
 let celebCollection = [
     {
         celebName: "Mari Kondo",
-        image: "tomhanks.jpg",
+        image: "mari kondo.jpg",
 
     },
    
     {
         celebName: "Yayoi Kusama",
-        image: "tomhanks.jpg",
+        image: "yayoikusama.jpg",
     },
    
     { 
         celebName: "Hayao Miyazaki" ,
-        image: "tomhanks.jpg",
+        image: "download-3.jpg",
 
     }
 ]

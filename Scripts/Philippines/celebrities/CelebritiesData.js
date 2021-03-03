@@ -1,17 +1,17 @@
 const celebrityCollection = [
     {
         celebrityName: "Manny Pacquiao",
-        image: "tomhanks.jpg",
+        image: "Manny.jpeg",
     },
 
      {
         celebrityName: "Lea Salonga",
-        image: "tomhanks.jpg",
+        image: "lea.jpeg",
     },
 
      {
         celebrityName: "Bruno Mars",
-        image: "tomhanks.jpg",
+        image: "bruno.jpeg",
     }
 ]
 
