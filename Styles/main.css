@@ -85,12 +85,29 @@ ul {
 
 .banner-image {
 
-background-image : url("../images/greece-pages.jpg");
+background-image : url("../images/greece-page.jpeg");
 height: 350px;
 background-position: center;
 background-size:cover;
 }
 
-.bannerImage {
-    width: 100%
+.iceland-banner-image {
+background-image : url("../images/Iceland-banner.gif");
+height: 350px;
+background-position: center;
+background-size:cover;
+}
+
+.japan-banner-image {
+background-image : url("../images/japan-banner.jpg");
+height: 350px;
+background-position: center;
+background-size:cover;
+}
+
+.phili-banner-image {
+background-image : url("../images/PhilippinesHeader.jpg");
+height: 350px;
+background-position: center;
+background-size:cover;
 }
