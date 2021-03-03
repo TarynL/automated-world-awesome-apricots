@@ -13,40 +13,34 @@ body {
     background-color: #E2EBEE;
 }
 
-.navbar {
-    display: inline;
-    flex-wrap: wrap;
+header {
+    clear: both
 }
 
-.navbar img {
-    width: 60px;
-    float:left;
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    background-color: #1B2E3F;
 }
 
 nav a:hover {
     color: #FFCFB6;
 }
 
-.navbar ul {
-    display: flex;
-    justify-content: flex-end;
-	list-style-type: none;
-	margin: 0;
-	padding: 1em;
-	overflow: hidden;   
-    background-color: #1B2E3F;
-  }
-
 .navbar li {
 	display: inline;
-	margin: 0 1em;
+    margin: 0 3em; 
   }
 
+.navbar ul {
+    margin: 20px;
+}
+
 .navbar a {
-    display: inline-flex;
     color: white;
+    font-size: large;
     text-decoration: none;
-    margin: 0 40px;
 }
 
 .icons {
@@ -61,7 +55,7 @@ nav a:hover {
     height: 350px;
     width: 300px;
     object-fit: cover;
-    margin: 0px 10px;
+    margin: 0 10px;
 }
 
 .link {    
