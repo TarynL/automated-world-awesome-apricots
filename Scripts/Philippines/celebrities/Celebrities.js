@@ -1,7 +1,8 @@
 export const celebrity = (celebrityObj) => {
 	return (
     
-    `<li class="cityName">${celebrityObj.celebrityName}</li>`
+    `<div><img class="celeb-image" src="images/${celebrityObj.image}"/></div>
+	<li class="cityName">${celebrityObj.celebrityName}</li>`
 
 	)
 };

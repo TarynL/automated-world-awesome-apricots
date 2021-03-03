@@ -1,5 +1,6 @@
 export const landmark = (landmarkObj) => {
     return (
-        `<li>${landmarkObj.landmarkName}</li>`
+        `<div><img class="landmark-image" src="images/${landmarkObj.image}"/></div>
+        <li>${landmarkObj.landmarkName}</li>`
     )
 }

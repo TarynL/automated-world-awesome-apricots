@@ -1,14 +1,17 @@
 const cityCollection = [
     {
-        name: "Reykjavík"
+        name: "Reykjavík",
+        image: "athens.jpg"
     },
 
     {
-        name: "Akureyri"
+        name: "Akureyri",
+        image: "athens.jpg"
     },
 
     {
-        name: "Vík í Mýrdal"
+        name: "Vík í Mýrdal",
+        image: "athens.jpg"
     }
 ];
 
