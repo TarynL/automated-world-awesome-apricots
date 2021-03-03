@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 h1 {
     font-family: 'Lobster', cursive;
     text-align: center;
@@ -7,6 +9,7 @@ h1 {
 
 .bio {
     text-align: center;
+    font-family: "Roboto", serif;
 }
 
 body {
@@ -41,6 +44,7 @@ nav a:hover {
     color: white;
     font-size: large;
     text-decoration: none;
+    font-family: "roboto", serif;
 }
 
 .icons {
@@ -95,4 +99,10 @@ ul {
 
 .bannerImage {
     width: 100%
+}
+
+
+.bioContainer {
+    margin: 50px;
+    padding: 20px;
 }
